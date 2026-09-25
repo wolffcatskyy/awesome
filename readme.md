@@ -666,6 +666,7 @@
 - [SNMP](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
 - [Scapy](https://github.com/secdev/awesome-scapy#readme) - Python-based interactive packet manipulation.
 - [Cilium](https://github.com/seifrajhi/awesome-cilium#readme) - Provides networking and security capabilities for containerized apps, microservices, and virtual machines.
+- [UniFi](https://github.com/wolffcatskyy/awesome-unifi#readme) - Networking hardware and software by Ubiquiti.
 
 ## Decentralized Systems
 
